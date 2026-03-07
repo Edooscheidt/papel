@@ -2,8 +2,6 @@ Hello, world
 
 olá, my friend
 
-<<<<<<< HEAD
 who are you?
-=======
+
 Edição pelo github
->>>>>>> a4dd41f2a0fdb5f5a64d93f2de991b502105ed91
